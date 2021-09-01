@@ -14,9 +14,7 @@ idna==3.2
 lxml==4.6.3
 psycopg2==2.9.1
 py-notifier==0.1.0
-pypiwin32==223
 pytz==2019.3
-pywin32==228
 requests==2.26.0
 six==1.14.0
 soupsieve==2.2.1
